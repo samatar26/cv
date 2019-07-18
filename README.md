@@ -12,14 +12,14 @@ Passionate **teacher** and **learner**. Open source **contributor** to [Revery](
 
 ### Front End Engineer | Jul 2017 - Mar 2019
 
-- Create effortless user experiences by writing components using React with a heavy emphasis on accessibility.
-- Manage application state using Redux and Reselect.
-- Test components using Jest and Enzyme.
-- Setup Storybook for a UI development environment.
-- Write acceptance tests using Selenium, Nightwatch and Cypress.
-- Successfully setup acceptance tests on CI/CD pipeline using Docker.
-- Migrated codebase from CSS modules and Sass to using CSS-in-JS (Styled Components).
-- Migrated build process from using Gulp to Webpack.
+- Create effortless user experiences by writing components using **React** with a heavy emphasis on **accessibility**.
+- Manage application state using **Redux**.
+- Test components using **Jest** and **Enzyme**.
+- Setup **Storybook** for a UI development environment.
+- Write acceptance tests using **Selenium**, **Nightwatch** and **Cypress**.
+- Successfully setup acceptance tests on CI/CD pipeline using **Docker**.
+- Migrated codebase from **CSS modules** and **Sass** to using CSS-in-JS (**Styled Components**).
+- Migrated build process from using **Gulp** to **Webpack**.
 - Automated the build of front end assets on the CI/CD pipeline.
 
 ---
