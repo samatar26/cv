@@ -4,9 +4,11 @@ Software engineer specializing in React and Node.js.
 
 Passionate **teacher** and **learner**. Open source **contributor** to [Revery](https://github.com/revery-ui/revery), [Next.js](https://github.com/zeit/next.js/) and [Styled Components](https://github.com/styled-components/styled-components).
 
+---
+
 ## Experience
 
-![ticketmaster-logo](assets/tmlogo_blue.png)
+![ticketmaster-logo](assets/tmlogo_blue.png?raw=true)
 
 ### Front End Engineer | Jul 2017 - Mar 2019
 
@@ -20,7 +22,9 @@ Passionate **teacher** and **learner**. Open source **contributor** to [Revery](
 - Migrated build process from using Gulp to Webpack.
 - Automated the build of front end assets on the CI/CD pipeline.
 
-![founders-and-coders-logo](assets/foundersandcoders_logo.png)
+---
+
+![founders-and-coders-logo](assets/foundersandcoders_logo.png?raw=true)
 
 ### Full Stack Developer | Feb 2017 - Jul 2017
 
@@ -29,9 +33,11 @@ Passionate **teacher** and **learner**. Open source **contributor** to [Revery](
 - Delivered an MVP for the Anna Freud centre focusing on mental health, allowing young individuals to connect with high achieving adults who can help them achieve their goals.
 - Also stayed on upon completion of the course to help mentor the next cohort and contributed to improvements in the curriculum.
 
+---
+
 ## Teaching Experience
 
-![codeyourfuture-logo](assets/codeyourfuture_logo.png)
+![codeyourfuture-logo](assets/codeyourfuture_logo.png?raw=true)
 
 ### Mentor | May 2017 - Present
 
@@ -40,7 +46,9 @@ A non-profit organisation supporting refugee and disadvantaged individuals with 
 - Taught a JavaScript module which focused on ES6 and testing in JavaScript.
 - Fulfilled the role as project manager of a team of three students building an MVP for an organization called [Local Welcome](https://www.localwelcome.org/).
 
-![codebar-logo](assets/codebar_logo.png)
+---
+
+![codebar-logo](assets/codebar_logo.png?raw=true)
 
 ### Mentor | Sep 2017 - Present
 
@@ -49,9 +57,13 @@ A non-profit initiative that facilitates the growth of a diverse tech community 
 - Attend wednesday evening workshops in London where I mentor students in React, Node.js, JavaScript, HTML, CSS and Git.
 - Also provide students with general career advice.
 
+---
+
 ## Languages
 
 Fluent in **English**, **Dutch** and **Somali**.
+
+---
 
 ## Links
 
