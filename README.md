@@ -10,7 +10,7 @@ Passionate **teacher** and **learner**. Open source **contributor** to [Revery](
 
 ![ticketmaster-logo](assets/tmlogo_blue.png?raw=true)
 
-### Front End Engineer | Jul 2017 - Mar 2019
+### [Ticketmaster](https://ticketmaster.co.uk) | Front End Engineer | Jul 2017 - Mar 2019
 
 - Create effortless user experiences by writing components using **React** with a heavy emphasis on **accessibility**.
 - Manage application state using **Redux**.
@@ -26,7 +26,7 @@ Passionate **teacher** and **learner**. Open source **contributor** to [Revery](
 
 ![founders-and-coders-logo](assets/foundersandcoders_logo.png?raw=true)
 
-### Full Stack Developer | Feb 2017 - Jul 2017
+### [Founders And Coders](https://foundersandcoders.com) | Full Stack Developer | Feb 2017 - Jul 2017
 
 - London's leading full stack JavaScript web development course in which I worked with teams of varying sizes to deliver projects to tight deadlines.
 - Core technologies used in the projects included Node.js, React, Redux, PostgreSQL.
@@ -39,7 +39,7 @@ Passionate **teacher** and **learner**. Open source **contributor** to [Revery](
 
 ![codeyourfuture-logo](assets/codeyourfuture_logo.png?raw=true)
 
-### Mentor | May 2017 - Present
+### [CodeYourFuture](https://codeyourfuture.io) | Mentor | May 2017 - Present
 
 A non-profit organisation supporting refugee and disadvantaged individuals with the dream of becoming developers.
 
@@ -50,7 +50,7 @@ A non-profit organisation supporting refugee and disadvantaged individuals with 
 
 ![codebar-logo](assets/codebar_logo.png?raw=true)
 
-### Mentor | Sep 2017 - Present
+### [Codebar](https://codebar.io) | Mentor | Sep 2017 - Present
 
 A non-profit initiative that facilitates the growth of a diverse tech community by running regular programming workshops.
 
