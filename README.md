@@ -6,7 +6,7 @@ Passionate **teacher** and **learner**. Open source **contributor** to [Revery](
 
 ## Experience
 
-[!ticketmaster-logo](assets/tmlogo_blue.png)
+![ticketmaster-logo](assets/tmlogo_blue.png)
 
 ### Front End Engineer | Jul 2017 - Mar 2019
 
@@ -20,7 +20,7 @@ Passionate **teacher** and **learner**. Open source **contributor** to [Revery](
 - Migrated build process from using Gulp to Webpack.
 - Automated the build of front end assets on the CI/CD pipeline.
 
-[!founders-and-coders-logo](assets/foundersandcoders_logo.png)
+![founders-and-coders-logo](assets/foundersandcoders_logo.png)
 
 ### Full Stack Developer | Feb 2017 - Jul 2017
 
@@ -31,7 +31,7 @@ Passionate **teacher** and **learner**. Open source **contributor** to [Revery](
 
 ## Teaching Experience
 
-[!codeyourfuture-logo](assets/codeyourfuture_logo.png)
+![codeyourfuture-logo](assets/codeyourfuture_logo.png)
 
 ### Mentor | May 2017 - Present
 
@@ -40,7 +40,7 @@ A non-profit organisation supporting refugee and disadvantaged individuals with 
 - Taught a JavaScript module which focused on ES6 and testing in JavaScript.
 - Fulfilled the role as project manager of a team of three students building an MVP for an organization called [Local Welcome](https://www.localwelcome.org/).
 
-[!codebar-logo](assets/codebar_logo.png)
+![codebar-logo](assets/codebar_logo.png)
 
 ### Mentor | Sep 2017 - Present
 
