@@ -8,6 +8,12 @@ Passionate **teacher** and **learner**. Open source **contributor** to [Revery](
 
 ## Experience
 
+![fluidly-logo](assets/fluidly_logo.png?raw=true)
+
+### [Fluidly](https://fluidly.co.uk) | Software Engineer | Aug 2019 - Present
+
+---
+
 ![ticketmaster-logo](assets/tmlogo_blue.png?raw=true)
 
 ### [Ticketmaster](https://ticketmaster.co.uk) | Front End Engineer | Jul 2017 - Mar 2019
