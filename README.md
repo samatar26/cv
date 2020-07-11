@@ -1,6 +1,6 @@
 # Samatar Axmed - CV
 
-Software engineer specializing in React and Node.js.
+Software engineer specializing in React, Node.js and Python.
 
 Passionate **teacher** and **learner**. Open source **contributor** to [Revery](https://github.com/revery-ui/revery), [Next.js](https://github.com/zeit/next.js/) and [Styled Components](https://github.com/styled-components/styled-components).
 
@@ -11,6 +11,15 @@ Passionate **teacher** and **learner**. Open source **contributor** to [Revery](
 ![fluidly-logo](assets/fluidly_logo.png?raw=true)
 
 ### [Fluidly](https://fluidly.co.uk) | Software Engineer | Aug 2019 - Present
+
+- Working in a mono-enviroment (production only, every commit goes diretly to production). This results in extremely fast releases into production, very good monitoring and high quality code written exclusively using TDD.
+- Working on Flask and Node.js apps for the majority of our micro-services.
+- Use of Google Cloud Pub/Sub for our messaging between different services.
+- Use React, TypeScript, Redux and Sass to develop features for the app. React Testing Library and Cypress is used for the test-driven development of these features.
+- Experimenting quickly through A/B testing and good use of analytics.
+- Use of PostgreSQL, BigQuery and Data Studio for user research + segmentation to help retention and growth.
+- Implenting a payments system for direct SMEs to get a subscription to the app.
+- Extensive knowledge and use of our infrastructure: CircleCI for our CI/CD pipeline, Google Cloud Platform for our cloud infrastructure and Terraform to manage all of our infrastructure.
 
 ---
 
