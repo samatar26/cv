@@ -2,7 +2,7 @@
 
 Software engineer specializing in React, Node.js and Python.
 
-Passionate **teacher** and **learner**. Open source **contributor** to [Revery](https://github.com/revery-ui/revery), [Next.js](https://github.com/zeit/next.js/) and [Styled Components](https://github.com/styled-components/styled-components).
+Passionate **teacher** and **learner**. Open source **contributor** to [Revery](https://github.com/revery-ui/revery).
 
 ---
 
@@ -12,14 +12,16 @@ Passionate **teacher** and **learner**. Open source **contributor** to [Revery](
 
 ### [Fluidly](https://fluidly.co.uk) | Software Engineer | Aug 2019 - Present
 
-- Working in a mono-enviroment (production only, every commit goes diretly to production). This results in extremely fast releases into production, very good monitoring and high quality code written exclusively using TDD.
+- Working in a mono-environment (production only, every commit goes directly to production). This results in extremely fast releases into production, very good monitoring and high quality code written exclusively using TDD.
 - Working on Flask and Node.js apps for the majority of our micro-services.
 - Use of Google Cloud Pub/Sub for our messaging between different services.
-- Use React, TypeScript, Redux and Sass to develop features for the app. React Testing Library and Cypress is used for the test-driven development of these features.
-- Experimenting quickly through A/B testing and good use of analytics.
-- Use of PostgreSQL, BigQuery and Data Studio for user research + segmentation to help retention and growth.
-- Implenting a payments system for direct SMEs to get a subscription to the app.
+- Use React, TypeScript, Redux, Sass and Styled-Components to develop features for the app. React Testing Library and Cypress is used for the test-driven development of these features.
 - Extensive knowledge and use of our infrastructure: CircleCI for our CI/CD pipeline, Google Cloud Platform for our cloud infrastructure and Terraform to manage all of our infrastructure.
+- Experimenting quickly through A/B testing and good use of analytics.
+- Use of Data Studio for reporting on user and connections base.
+- Led on several payment platform integrations, including **Stripe**, **Chargebee** and **GoCardless**.
+- Currently working on user permissions for our accountants. 
+
 
 ---
 
@@ -30,9 +32,9 @@ Passionate **teacher** and **learner**. Open source **contributor** to [Revery](
 - Create effortless user experiences by writing components using **React** with a heavy emphasis on **accessibility**.
 - Manage application state using **Redux**.
 - Test components using **Jest** and **Enzyme**.
-- Setup **Storybook** for a UI development environment.
+- Set up **Storybook** for a UI development environment.
 - Write acceptance tests using **Selenium**, **Nightwatch** and **Cypress**.
-- Successfully setup acceptance tests on CI/CD pipeline using **Docker**.
+- Successfully set up acceptance tests on CI/CD pipeline using **Docker**.
 - Migrated codebase from **CSS modules** and **Sass** to using CSS-in-JS (**Styled Components**).
 - Migrated build process from using **Gulp** to **Webpack**.
 - Automated the build of front end assets on the CI/CD pipeline.
@@ -69,7 +71,7 @@ A non-profit organisation supporting refugee and disadvantaged individuals with 
 
 A non-profit initiative that facilitates the growth of a diverse tech community by running regular programming workshops.
 
-- Attend wednesday evening workshops in London where I mentor students in React, Node.js, JavaScript, HTML, CSS and Git.
+- Attend Wednesday evening workshops in London where I mentor students in React, Node.js, JavaScript, HTML, CSS and Git.
 - Also provide students with general career advice.
 
 ---
