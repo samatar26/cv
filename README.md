@@ -12,13 +12,13 @@ Passionate **teacher** and **learner**. Open source **contributor** to [Revery](
 
 ### [Fluidly](https://fluidly.co.uk) | Software Engineer | Aug 2019 - Present
 
-- Working in a mono-environment (production only, every commit goes directly to production). This results in extremely fast releases into production, very good monitoring and high quality code written exclusively using TDD.
+- Working in a mono-environment (production only, every commit to master/main goes directly to production). This results in extremely fast releases into production, very good monitoring and high quality code written exclusively using TDD.
 - Working on Flask and Node.js apps for the majority of our micro-services.
 - Use of Google Cloud Pub/Sub for our messaging between different services.
 - Use React, TypeScript, Redux, Sass and Styled-Components to develop features for the app. React Testing Library and Cypress is used for the test-driven development of these features.
 - Extensive knowledge and use of our infrastructure: CircleCI for our CI/CD pipeline, Google Cloud Platform for our cloud infrastructure and Terraform to manage all of our infrastructure.
 - Experimenting quickly through A/B testing and good use of analytics.
-- Use of Data Studio for reporting on user and connections base.
+- Use of BigQuery and Data Studio for reporting on user and connections base.
 - Led on several payment platform integrations, including **Stripe**, **Chargebee** and **GoCardless**.
 - Currently working on user permissions for our accountants. 
 
