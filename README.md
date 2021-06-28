@@ -14,13 +14,15 @@ Passionate **teacher** and **learner**. Open source **contributor** to [Revery](
 
 - Working in a mono-environment (production only, every commit to master/main goes directly to production). This results in extremely fast releases into production, very good monitoring and high quality code written exclusively using TDD.
 - Working on Flask, FastAPI, and Node.js apps for the majority of our micro-services.
+- Use of Postgres for our database and sqlalchemy to interact with the database. Familiar with speeding up slow queries, understanding query plans and different types of indexes.
 - Use of Google Cloud Pub/Sub for our messaging between different services.
 - Use React, TypeScript, Redux, Sass and Styled-Components to develop features for the app. React Testing Library and Cypress is used for the test-driven development of these features.
 - Extensive knowledge and use of our infrastructure: CircleCI for our CI/CD pipeline, Google Cloud Platform for our cloud infrastructure and Terraform to manage all of our infrastructure.
-- Experimenting quickly through A/B testing and good use of analytics.
-- Use of BigQuery and Data Studio for reporting on user and connections base.
 - Led on several payment platform integrations, including **Stripe**, **Chargebee** and **GoCardless**.
-- Currently working on user permissions for our accountants. 
+- Worked extensively on our data warehouse, using BigQuery and DBT. Also used Data Studio for reporting on user and connections base. First report I made resulted in the discovery of a bug in our OAuth implementation!
+- Was part of the growth team to help increase our user base and also improve our retention. This involved a lot of experimenting and good use of analytics.
+- Worked on and added VAT predictions to the app: The most requested feature by our users.
+- Currently working on a permission system for our users. 
 
 
 ---
