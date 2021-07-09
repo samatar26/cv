@@ -18,6 +18,7 @@ Passionate **teacher** and **learner**. Open source **contributor** to [Revery](
 - Use of Google Cloud Pub/Sub for our messaging between different services.
 - Use React, TypeScript, Redux, Sass and Styled-Components to develop features for the app. React Testing Library and Cypress is used for the test-driven development of these features.
 - Extensive knowledge and use of our infrastructure: CircleCI for our CI/CD pipeline, Google Cloud Platform for our cloud infrastructure and Terraform to manage all of our infrastructure.
+- Introduced Domain Driven Design into our Node.js service. 
 - Led on several payment platform integrations, including **Stripe**, **Chargebee** and **GoCardless**.
 - Worked extensively on our data warehouse, using BigQuery and DBT. Also used Data Studio for reporting on user and connections base. First report I made resulted in the discovery of a bug in our OAuth implementation!
 - Was part of the growth team to help increase our user base and also improve our retention. This involved a lot of experimenting and good use of analytics.
