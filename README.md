@@ -10,7 +10,7 @@ Passionate **teacher** and **learner**. Open source **contributor** to [Revery](
 
 ![fluidly-logo](assets/fluidly_logo.png?raw=true)
 
-### [Fluidly](https://fluidly.co.uk) | Software Engineer | Aug 2019 - Present
+### [Fluidly](https://fluidly.co.uk) | Software Engineer | Aug 2019 - Jul 2021
 
 - Working in a mono-environment (production only, every commit to master/main goes directly to production). This results in extremely fast releases into production, very good monitoring and high quality code written exclusively using TDD.
 - Working on Flask, FastAPI, and Node.js apps for the majority of our micro-services.
