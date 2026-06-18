@@ -8,6 +8,18 @@ Passionate **teacher** and **learner**.
 ---
 
 
+## Contents
+
+- [Experience](#experience)
+- [Teaching Experience](#teaching-experience)
+- [Open Source Contributions](#open-source-contributions)
+- [Languages](#languages)
+- [Links](#links)
+
+
+---
+
+
 ## Experience
 
 ![founders-and-coders-ml-logo](assets/founders_and_coders_ml_logo.avif?raw=true)
@@ -145,6 +157,30 @@ A non-profit initiative that facilitates the growth of a diverse tech community 
 
 - Attend Wednesday evening workshops in London where I mentor students in React, Node.js, JavaScript, HTML, CSS and Git.
 - Also provide students with general career advice.
+
+---
+
+## Open Source Contributions
+
+**[Revery](https://github.com/revery-ui/revery)** - native cross platform desktop framework
+- [#313](https://github.com/revery-ui/revery/pull/313) - Add mouseenter / mouseleave / mouseover / mouseout events · ✅ Merged
+- [#304](https://github.com/revery-ui/revery/pull/304) - Add padding support to the style system · ✅ Merged
+- [#281](https://github.com/revery-ui/revery/pull/281) - Add the missing `revery_native.install` script · ✅ Merged
+- [#268](https://github.com/revery-ui/revery/pull/268) - Add a Dropdown component · ✅ Merged
+
+**[mitmproxy/mitmproxy_rs](https://github.com/mitmproxy/mitmproxy_rs)** - HTTPS proxy
+- [#314](https://github.com/mitmproxy/mitmproxy_rs/pull/314) - Fix Linux local mode missing traffic from non-main threads · ⏳ Pending
+
+**[Paseo](https://github.com/getpaseo/paseo)** - Multi platform coding agent
+- [#1077](https://github.com/getpaseo/paseo/pull/1077) - Render non-ASCII filenames correctly in git output · ✅ Merged
+- [#1076](https://github.com/getpaseo/paseo/pull/1076) - Send SIGINT on hardware Ctrl+C in the iPad terminal · ✅ Merged
+
+**[Redux Toolkit](https://github.com/reduxjs/redux-toolkit)**
+- [#2020](https://github.com/reduxjs/redux-toolkit/pull/2020) - Prevent duplicate IDs when an entity's id is updated to an existing one · ✅ Merged
+
+**[DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)**
+- [#42404](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/42404) - Add the missing `path` attribute to React's SVG types · ✅ Merged
+
 
 ---
 
