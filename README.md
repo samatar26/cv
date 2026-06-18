@@ -2,21 +2,68 @@
 
 Software engineer, most definitely T-shaped.
 
-Passionate **teacher** and **learner**. Open source **contributor** to [Revery](https://github.com/revery-ui/revery).
+Passionate **teacher** and **learner**.
+
 
 ---
 
+
 ## Experience
+
+![founders-and-coders-ml-logo](assets/founders_and_coders_ml_logo.avif?raw=true)
+
+### [Founders And Coders](https://foundersandcoders.com) | Machine learning apprenticeship | May 2026 - May 2027
+One year machine learning apprenticeship for experienced software engineers and data scientist. 
+
+Tech: RAG systems, Transformers, MLOps, Autonomous agents
+
+- Building a RAG system from scratch; source ingestion, chunking, embedding, vector search, re-ranking and generation. 
+
+
+---
+
+
+![supply25-logo](assets/supply25_logo.png?raw=true)
+
+### [Supply25](https://supply25.com) | Senior software engineer | Remote | Jan 2026 - Present
+Building the future of public procurement with close friends
+
+Tech: Typescript, Node.js, React, AWS (CDK, DynamoDB, Lambdas), Playwright
+
+Product:
+- Allowing buyer organisations to create custom assessments for their potential suppliers. This is a big feature ask as buyers may have slightly different requirements that aren't defined in the canonical cyber security and accessibility assessments. 
+
+Quality:
+- Setup integration tests for the backend services using localstack and then its community/free edition got dropped a couple of weeks later 😅 (Luckily testing against a dynamodb container gives us the same level as confidence as before)
+- Setup a CI/CD pipeline for all services and apps entailing:
+	- Code quality checks on all packages on every PR before merge
+	- A release workflow on merge to main that runs an E2E test suite hitting the critical flows
+	- Upon success, deploy to staging followed by a manual approval to production
+- Helping the company obtain ISO 27001 certification, adding things like Point-in-Time Recovery on databases and other best practices and of course whatever else gets flagged 😆
+- Created an infrastructure package containing cdk constructs with good defaults
+- Moved from clickops to infrastructure as code in a methodical manner, i.e. creating the cdk stack, ensuring there are no differences once deployed and otherwise using cdk import
+- Setup Sentry sourcemaps and releases so we can easily find the dirty commit as well as the line of code that triggered the error
+
+
+---
+
+![restless](assets/restless.gif?raw=true)
+
+### Career break 😴 | London | Jul 2025 - Jan 2026
+
+
+---
+
 
 ![maze-logo](assets/maze_logo.png?raw=true)
 
-### [Maze](https://maze.co) | Senior software engineer | Remote | Sep 2021 - Present
+### [Maze](https://maze.co) | Senior software engineer | Remote | Sep 2021 - Jul 2025
 ##### What is Maze and what am I building?
 Maze is a rapid growing Series B startup building the future of product discovery for user-centric teams. We're powering product research for 60,000 customers worldwide including Uber, Accenture, FairMoney, and Braze. 
 
 Maze empowers product teams to continuously collect and consume user insights across the entire product development cycle. With solutions for participant recruitment, product research, and reporting, Maze helps teams build the habit of continuous product discovery in a platform that enables everyone to run great research.
 
-Tech: Typescript, Node.js, Neo4j, GraphQL, XState, Nest.js, Next.js, React, AWS, SNS/SQS, Nats, Terraform, CircleCi, OpenFGA
+Tech: Typescript, Node.js, Neo4j, GraphQL, XState, Nest.js, Next.js, React, AWS, SNS/SQS, Nats, Terraform, CircleCi, Github Actions, Kubernetes, Docker, A/B testing, OpenFGA
 
 - Added a human touch to the product by allowing users to upload and set profile pictures while also syncing their gmail profile picture if they're authenticated through Google.
 - Led and implemented our product's integration with a lifecycle marketing tool called [Iterable](https://iterable.com/). This helps the marketing team to guide users' journeys within the app from the moment they sign up.
@@ -81,7 +128,7 @@ Tech: Typescript, Node.js, Neo4j, GraphQL, XState, Nest.js, Next.js, React, AWS,
 
 ![codeyourfuture-logo](assets/codeyourfuture_logo.png?raw=true)
 
-### [CodeYourFuture](https://codeyourfuture.io) | Mentor | May 2017 - Present
+### [CodeYourFuture](https://codeyourfuture.io) | Mentor | May 2017 - 2020
 
 A non-profit organisation supporting refugee and disadvantaged individuals with the dream of becoming developers.
 
@@ -92,7 +139,7 @@ A non-profit organisation supporting refugee and disadvantaged individuals with 
 
 ![codebar-logo](assets/codebar_logo.png?raw=true)
 
-### [Codebar](https://codebar.io) | Mentor | Sep 2017 - Present
+### [Codebar](https://codebar.io) | Mentor | Sep 2017 - 2020
 
 A non-profit initiative that facilitates the growth of a diverse tech community by running regular programming workshops.
 
