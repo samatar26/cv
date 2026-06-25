@@ -55,6 +55,7 @@ Quality:
 - Created an infrastructure package containing cdk constructs with good defaults
 - Moved from clickops to infrastructure as code in a methodical manner, i.e. creating the cdk stack, ensuring there are no differences once deployed and otherwise using cdk import
 - Setup Sentry sourcemaps and releases so we can easily find the dirty commit as well as the line of code that triggered the error
+- Built on-demand PR preview environments enabling non-devs to prototype and experiment features while working directly in our codebase
 
 
 ---
