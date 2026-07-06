@@ -30,6 +30,7 @@ One year machine learning apprenticeship for experienced software engineers and 
 Tech: RAG systems, Transformers, MLOps, Autonomous agents
 
 - Building a RAG system from scratch; source ingestion, chunking, embedding, vector search, re-ranking and generation. 
+- Soon: building autonomous agents and real-time voice agents, transformers from scratch, MLOps and more.
 
 
 ---
@@ -45,18 +46,18 @@ Tech: Typescript, Node.js, React, AWS (CDK, DynamoDB, Lambdas), Playwright
 Product:
 - Allowing buyer organisations to create custom assessments for their potential suppliers. This is a big feature ask as buyers may have slightly different requirements that aren't defined in the canonical cyber security and accessibility assessments. 
 -  Building a supply chain risk map giving buyers a single view of their entire supply chain, not just the suppliers they contract with directly, but the subcontractors underneath them too. Buyers are on the hook for risk sitting several layers deep, yet that's exactly where they have the least visibility.
+- Built on-demand PR preview environments enabling non-devs to prototype and experiment features while working directly in our codebase
 
 Quality:
 - Setup integration tests for the backend services using localstack and then its community/free edition got dropped a couple of weeks later 😅 (Luckily testing against a dynamodb container gives us the same level of confidence as before)
-- Setup a CI/CD pipeline for all services and apps entailing:
+- Setup a CI/CD pipeline for all services and apps, so a merge to main is always releasable and deploys are boring:
 	- Code quality checks on all packages on every PR before merge
 	- A release workflow on merge to main that runs an E2E test suite hitting the critical flows
 	- Upon success, deploy to staging followed by a manual approval to production
 - Helping the company obtain ISO 27001 certification, adding things like Point-in-Time Recovery on databases and other best practices and of course whatever else gets flagged 😆
-- Created an infrastructure package containing cdk constructs with good defaults
-- Moved from clickops to infrastructure as code in a methodical manner, i.e. creating the cdk stack, ensuring there are no differences once deployed and otherwise using cdk import
+- Created an infrastructure package of cdk constructs with good defaults, so every new service starts from our best practices instead of copy-pasted config
+- Moved from clickops to infrastructure as code in a methodical manner, i.e. creating the cdk stack, ensuring there are no differences once deployed and otherwise using cdk import. Infra changes now go through PR review like any other code
 - Setup Sentry sourcemaps and releases so we can easily find the dirty commit as well as the line of code that triggered the error
-- Built on-demand PR preview environments enabling non-devs to prototype and experiment features while working directly in our codebase
 
 
 ---
