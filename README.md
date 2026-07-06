@@ -4,6 +4,8 @@ Software engineer, most definitely T-shaped.
 
 Passionate **teacher** and **learner**.
 
+Prefer a PDF? [Grab it here](samatar-axmed-cv.pdf).
+
 
 ---
 
