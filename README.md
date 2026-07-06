@@ -81,13 +81,16 @@ Maze empowers product teams to continuously collect and consume user insights ac
 
 Tech: Typescript, Node.js, Neo4j, GraphQL, XState, Nest.js, Next.js, React, AWS, SNS/SQS, Nats, Terraform, CircleCi, Github Actions, Kubernetes, Docker, A/B testing, OpenFGA
 
-- Added a human touch to the product by allowing users to upload and set profile pictures while also syncing their gmail profile picture if they're authenticated through Google.
-- Led and implemented our product's integration with a lifecycle marketing tool called [Iterable](https://iterable.com/). This helps the marketing team to guide users' journeys within the app from the moment they sign up.
-- Championing the value of testing and helping the team upskill. Introduced [Playwright](https://playwright.dev/) and set up an entire test suite which is fast and reliable.
-- Built a micro-frontend for the entire login/signup flow using Next.js and state machines through XState to help us more easily run experiments.
+- Giving free users a usage-based trial to allow them to explore all of the features that are offered on the Enterprise plans and have a taste of the real value of Maze. It had a very positive impact on number of PQLs 📈.
+- Led and implemented the onboarding flow for that usage-based trial: a persistent dashboard widget whose steps complete as users take real actions across different areas of the app. This also included making sure the demo maze stayed fast, since it's the first thing every new user touches and a sluggish first session is a great way to kill a trial.
+- [Usage tracking](https://www.linkedin.com/posts/mazedesign_introducing-usage-tracking-activity-7310692033021526018-Pbik?utm_source=share&utm_medium=member_desktop&rcm=ACoAACDrhtMBjdtlcGf_jN99ps9xjX_OY4uXz0c), an event-driven system utilising SNS/SQS giving organizations the ability to monitor their study and recruitment credit consumption which they can use to make strategic decisions and effectively plan their research budget. 
+- Drove technical direction through RFCs that got accepted: introducing transaction handling to our Neo4j layer, observability and alerting on our DLQs and tightening up our API's security.
 - Gave users workspaces to effectively group their research projects including member access. The authorization model was built using [OpenFGA](https://openfga.dev/)
-- Giving free users a usage-based trial to allow them to explore all of the features that are offered on the Organization plans and have a taste of the real value of Maze. So far it's had a very positive impact on number of PQLs 📈
-- [Usage tracking](https://www.linkedin.com/posts/mazedesign_introducing-usage-tracking-activity-7310692033021526018-Pbik?utm_source=share&utm_medium=member_desktop&rcm=ACoAACDrhtMBjdtlcGf_jN99ps9xjX_OY4uXz0c) using SNS/SQS allowing organizations to monitor their study and recruitment credit consumption which they can use to make strategic decisions and effectively plan their research budget. 
+- Built a micro-frontend for the entire login/signup flow using Next.js and state machines through XState to help us more easily run experiments.
+- Championing the value of testing and helping the team upskill. Introduced [Playwright](https://playwright.dev/) and set up an entire test suite which is fast and reliable. Also introduced supertest for testing our backends/apis. 
+- Led and implemented our product's integration with a lifecycle marketing tool called [Iterable](https://iterable.com/). This helps the marketing team to guide users' journeys within the app from the moment they sign up.
+- Later led and implemented our migration from Iterable to HubSpot, coming full circle from having built the Iterable integration in the first place 😄.
+- Added a human touch to the product by allowing users to upload and set profile pictures while also syncing their gmail profile picture if they're authenticated through Google.
 
 
 ---
