@@ -44,6 +44,7 @@ Tech: Typescript, Node.js, React, AWS (CDK, DynamoDB, Lambdas), Playwright
 
 Product:
 - Allowing buyer organisations to create custom assessments for their potential suppliers. This is a big feature ask as buyers may have slightly different requirements that aren't defined in the canonical cyber security and accessibility assessments. 
+-  Building a supply chain risk map giving buyers a single view of their entire supply chain, not just the suppliers they contract with directly, but the subcontractors underneath them too. Buyers are on the hook for risk sitting several layers deep, yet that's exactly where they have the least visibility.
 
 Quality:
 - Setup integration tests for the backend services using localstack and then its community/free edition got dropped a couple of weeks later 😅 (Luckily testing against a dynamodb container gives us the same level of confidence as before)
@@ -165,24 +166,24 @@ A non-profit initiative that facilitates the growth of a diverse tech community 
 
 ## Open Source Contributions
 
-**[Revery](https://github.com/revery-ui/revery)** - native cross platform desktop framework
-- [#313](https://github.com/revery-ui/revery/pull/313) - Add mouseenter / mouseleave / mouseover / mouseout events · ✅ Merged
-- [#304](https://github.com/revery-ui/revery/pull/304) - Add padding support to the style system · ✅ Merged
-- [#281](https://github.com/revery-ui/revery/pull/281) - Add the missing `revery_native.install` script · ✅ Merged
-- [#268](https://github.com/revery-ui/revery/pull/268) - Add a Dropdown component · ✅ Merged
-
 **[mitmproxy/mitmproxy_rs](https://github.com/mitmproxy/mitmproxy_rs)** - HTTPS proxy
 - [#314](https://github.com/mitmproxy/mitmproxy_rs/pull/314) - Fix Linux local mode missing traffic from non-main threads · ⏳ Pending
 
 **[Paseo](https://github.com/getpaseo/paseo)** - Multi platform coding agent
-- [#1077](https://github.com/getpaseo/paseo/pull/1077) - Render non-ASCII filenames correctly in git output · ✅ Merged
-- [#1076](https://github.com/getpaseo/paseo/pull/1076) - Send SIGINT on hardware Ctrl+C in the iPad terminal · ✅ Merged
+- [#1077](https://github.com/getpaseo/paseo/pull/1077) - Render non-ASCII filenames correctly in git output
+- [#1076](https://github.com/getpaseo/paseo/pull/1076) - Send SIGINT on hardware Ctrl+C in the iPad terminal
+
+**[Revery](https://github.com/revery-ui/revery)** - native cross platform desktop framework
+- [#313](https://github.com/revery-ui/revery/pull/313) - Add mouseenter / mouseleave / mouseover / mouseout events
+- [#304](https://github.com/revery-ui/revery/pull/304) - Add padding support to the style system
+- [#281](https://github.com/revery-ui/revery/pull/281) - Add the missing `revery_native.install` script
+- [#268](https://github.com/revery-ui/revery/pull/268) - Add a Dropdown component
 
 **[Redux Toolkit](https://github.com/reduxjs/redux-toolkit)**
-- [#2020](https://github.com/reduxjs/redux-toolkit/pull/2020) - Prevent duplicate IDs when an entity's id is updated to an existing one · ✅ Merged
+- [#2020](https://github.com/reduxjs/redux-toolkit/pull/2020) - Prevent duplicate IDs when an entity's id is updated to an existing one
 
 **[DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)**
-- [#42404](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/42404) - Add the missing `path` attribute to React's SVG types · ✅ Merged
+- [#42404](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/42404) - Add the missing `path` attribute to React's SVG types
 
 
 ---
