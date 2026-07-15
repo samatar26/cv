@@ -15,6 +15,11 @@ Prefer a PDF? [Grab it here](samatar-axmed-cv.pdf).
 - [Experience](#experience)
 - [Teaching Experience](#teaching-experience)
 - [Open Source Contributions](#open-source-contributions)
+	- mitmproxy/mitmproxy_rs · Rust
+	- Paseo · TypeScript
+	- Revery · ReasonML
+	- Redux Toolkit · TypeScript
+	- DefinitelyTyped · TypeScript
 - [Languages](#languages)
 - [Links](#links)
 
@@ -172,23 +177,23 @@ A non-profit initiative that facilitates the growth of a diverse tech community 
 
 ## Open Source Contributions
 
-**[mitmproxy/mitmproxy_rs](https://github.com/mitmproxy/mitmproxy_rs)** - HTTPS proxy
-- [#314](https://github.com/mitmproxy/mitmproxy_rs/pull/314) - Fix Linux local mode missing traffic from non-main threads · ⏳ Pending
+**[mitmproxy/mitmproxy_rs](https://github.com/mitmproxy/mitmproxy_rs)** - HTTPS proxy · Rust
+- [#314](https://github.com/mitmproxy/mitmproxy_rs/pull/314) - Found, root-caused and fixed a day-one eBPF bug where Linux local mode missed every request sent off the main thread, leaving the proxy near-blind to multithreaded apps (JVM, tokio, Python thread pools)
 
-**[Paseo](https://github.com/getpaseo/paseo)** - Multi platform coding agent
+**[Paseo](https://github.com/getpaseo/paseo)** - Multi platform coding agent · TypeScript
 - [#1077](https://github.com/getpaseo/paseo/pull/1077) - Render non-ASCII filenames correctly in git output
 - [#1076](https://github.com/getpaseo/paseo/pull/1076) - Send SIGINT on hardware Ctrl+C in the iPad terminal
 
-**[Revery](https://github.com/revery-ui/revery)** - native cross platform desktop framework
+**[Revery](https://github.com/revery-ui/revery)** - native cross platform desktop framework · ReasonML
 - [#313](https://github.com/revery-ui/revery/pull/313) - Add mouseenter / mouseleave / mouseover / mouseout events
 - [#304](https://github.com/revery-ui/revery/pull/304) - Add padding support to the style system
 - [#281](https://github.com/revery-ui/revery/pull/281) - Add the missing `revery_native.install` script
 - [#268](https://github.com/revery-ui/revery/pull/268) - Add a Dropdown component
 
-**[Redux Toolkit](https://github.com/reduxjs/redux-toolkit)**
+**[Redux Toolkit](https://github.com/reduxjs/redux-toolkit)** · TypeScript
 - [#2020](https://github.com/reduxjs/redux-toolkit/pull/2020) - Prevent duplicate IDs when an entity's id is updated to an existing one
 
-**[DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)**
+**[DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)** · TypeScript
 - [#42404](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/42404) - Add the missing `path` attribute to React's SVG types
 
 
